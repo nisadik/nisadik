@@ -42,12 +42,6 @@ I enjoy developing mobile and web applications, exploring AI-powered technologie
 - **[Geri Dönüşüm Projesi](https://github.com/nisadik/Geri-Donusum-Projesi)** – A project focused on promoting recycling awareness through technology.
 - **YeşilCepte** – A reward-based recycling mobile application developed with SwiftUI and AI-supported features.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisadik&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisadik&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayten-nisa-dik/)
