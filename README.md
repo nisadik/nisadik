@@ -46,7 +46,6 @@ I enjoy developing mobile and web applications, exploring AI-powered technologie
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayten-nisa-dik/)
 - 💻 [GitHub](https://github.com/nisadik)
-- 🌐 [Personal Website](https://nisadik.com.tr)
 
 ---
 
